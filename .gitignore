@@ -1,0 +1,59 @@
+﻿# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Maven
+.target/
+/target/
+.settings/
+.classpath
+.project
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.metadata/
+bin/
+
+# STS
+.springBeans
+.apt_generated
+.factorypath
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
